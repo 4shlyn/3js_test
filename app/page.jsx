@@ -42,7 +42,7 @@ export default function Home() {
           </Canvas>
 
           <div className="absolute top-10 w-full text-center text-6xl font-bold tracking-wide text-white drop-shadow-xl z-20">
-            3js test for rocked modelling
+            3js test for rocket modelling
           </div>
         </div>
       </main>
